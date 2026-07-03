@@ -1,0 +1,2 @@
+# Lumina
+# AI Documentation Assistant
