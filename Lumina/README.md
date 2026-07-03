@@ -8,24 +8,53 @@ Lumina is an AI Quality Documentation Assistant that helps evaluators transform 
 
 ## Purpose
 
-Documentation is one of the most valuable assets within an organization, yet it is often difficult to maintain, search, and keep up to date.
+## 🎯 Purpose
 
-Lumina explores how AI can assist people in creating, organizing, reviewing, and improving documentation while preserving human oversight and decision-making.
+Quality documentation is more than recording what happened—it is communicating observations with clarity, consistency, and purpose.
 
+Lumina explores how human-centered AI can support Quality Assurance professionals by transforming evaluator observations into objective, evidence-based documentation. Rather than replacing professional judgment, Lumina is designed to strengthen critical thinking, improve documentation quality, and promote consistency across evaluations.
+
+The goal is to reduce repetitive writing while helping evaluators produce documentation that supports coaching, operational excellence, and continuous improvement.
 ---
 
-## Core Focus Areas
+## 🌟 Core Focus Areas
 
-- 📄 Documentation
-- 📚 Knowledge Management
-- 🎯 Quality Assurance
+- 🎧 Quality Assurance Evaluations
+- ✍️ Objective Documentation
+- 🧠 Documentation Reasoning Framework
 - 🤝 Human-Centered AI
-- ⚙️ Operational Support
+- 📈 Coaching & Performance Development
+- ⚖️ Evaluation Consistency
+- 💬 Evidence-Based Feedback
+- 📊 Operational Excellence
+---
+## 💡 Design Principles
 
+Lumina is built on five guiding principles:
+
+👀 Observe objectively
+
+🧩 Reason critically
+
+✍️ Document clearly
+
+🌱 Coach constructively
+
+🤝 Keep humans in control
 ---
 
-## Project Status
+## 🚧 Project Status
 
-🚧 Currently in development.
+**Current Phase:** Foundation & Research
 
-This repository documents concepts, frameworks, and workflows exploring the future of AI-assisted documentation.
+Lumina is currently in the concept design phase, where the focus is on developing a human-centered framework for AI-assisted quality documentation.
+
+Current areas of exploration include:
+
+- Designing the Lumina Documentation Reasoning Framework™
+- Defining principles for objective, evidence-based documentation
+- Exploring AI-assisted documentation workflows
+- Developing ethical guidelines for human-in-the-loop AI
+- Creating conceptual product designs and workflow demonstrations
+
+Future iterations may include interactive prototypes, prompt libraries, evaluation examples, and AI-assisted workflow demonstrations.
