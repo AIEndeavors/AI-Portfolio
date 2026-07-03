@@ -44,11 +44,7 @@ print("9. ❓ Probing Questions")
 print("10. 📞 Callback Permission")
 
 print()
-
-choice = input("> ")
-
-print()
+ choice = input("> ")
 
 print("You selected:")
-
-print(choice)
+ print(choice)
