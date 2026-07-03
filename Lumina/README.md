@@ -1,8 +1,8 @@
 # ✨ Lumina
 
-## AI Documentation Assistant
+## AI Quality Documentation Assistant
 
-Lumina is a conceptual AI-powered documentation assistant that explores how organizations can improve knowledge management, documentation quality, and operational support through human-centered artificial intelligence.
+Lumina is an AI Quality Documentation Assistant that helps evaluators transform observations into clear, objective, evidence-based documentation through guided reasoning while preserving human judgment.
 
 ---
 
