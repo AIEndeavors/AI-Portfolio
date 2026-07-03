@@ -38,7 +38,6 @@ Lumina is built on five guiding principles:
 
 🌱 Coach constructively
 
-🤝 Keep humans in control
 ---
 
 ## 🚧 Project Status
