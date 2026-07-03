@@ -6,8 +6,6 @@ Lumina is an AI Quality Documentation Assistant that helps evaluators transform 
 
 ---
 
-## Purpose
-
 ## 🎯 Purpose
 
 Quality documentation is more than recording what happened—it is communicating observations with clarity, consistency, and purpose.
